@@ -1,8 +1,6 @@
 # Conversor de Divisar / Reto Alura 
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-green)
-
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-green) ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 - `Funcionalidad 1`: Conversión de dólares a monedas como el Sol peruano, Peso argentino, Real brasileño, Peso colombiano.
 - `Funcionalidad 2`: Conversión de las monedas mencionadas de vuelta a dólares.
